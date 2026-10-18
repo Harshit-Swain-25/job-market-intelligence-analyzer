@@ -1,0 +1,8 @@
+
+job_title,company,location,description,job_url,posted_date
+Python Developer,Acme Tech,Bengaluru,"Python, REST API, Git, pandas",https://example.com/jobs/1,2026-10-10
+Backend Developer,Blue Systems,Remote,"Python, FastAPI, REST API, Git",https://example.com/jobs/2,2026-10-11
+AI Engineer,Future Labs,Hyderabad,"Python, pandas, machine learning, Git",https://example.com/jobs/3,2026-10-12
+Python Developer,Green Solutions,Pune,"Python, Django, REST API, SQL",https://example.com/jobs/4,2026-10-13
+Data Analyst,DataWorks,Remote,"Python, pandas, Matplotlib, SQL",https://example.com/jobs/5,2026-10-14
+Backend Developer,Acme Tech,Bengaluru,"Python, FastAPI, Git, Docker",https://example.com/jobs/6,2026-10-15
