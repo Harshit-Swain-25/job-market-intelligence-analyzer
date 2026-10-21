@@ -15,6 +15,18 @@ The project supports both a fictional sample dataset and live job listings from 
 - **Export Results:** Save cleaned data and analysis summaries as CSV files.
 - **Automated Testing:** Validate important data-cleaning and analysis behavior using Python's `unittest` framework.
 
+## Sample Visualizations
+
+The following charts show results from the included fictional sample dataset of six job listings. They demonstrate how the application summarizes job titles and technical skills; they do not represent the entire job market.
+
+### Job Title Frequency
+
+![Job title frequency chart](docs/images/job_title_frequency.png)
+
+### Technical Skill Frequency
+
+![Technical skill frequency chart](docs/images/technical_skill_frequency.png)
+
 ## Tech Stack
 
 - Python
